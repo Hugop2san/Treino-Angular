@@ -30,7 +30,7 @@ A ideia é explorar conceitos, criar pequenos exemplos e praticar a construção
    cd SEU_REPOSITORIO
 ```
 
-##Fotos template :
+## Fotos template :
 
 <img width="809" height="374" alt="image" src="https://github.com/user-attachments/assets/037e9688-19a0-4c9c-a5e2-8089b397ef2e" />
 <img width="596" height="258" alt="image" src="https://github.com/user-attachments/assets/765dce80-dd07-4ed5-9588-ebec5dbd7471" />
